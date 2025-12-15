@@ -35,7 +35,6 @@ export default function Home() {
   </h2>
 
   <ul style={{ listStyle: "none", padding: 0, fontSize: "1.05rem" }}>
-    <li>✔ Built using modern React (Next.js)</li>
     <li>✔ Clean and beginner-friendly structure</li>
     <li>✔ Deployed on Vercel</li>
   </ul>

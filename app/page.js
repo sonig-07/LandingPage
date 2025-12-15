@@ -31,7 +31,6 @@ export default function Home() {
       </p>
       <div style={{ marginTop: "2rem", maxWidth: "700px" }}>
   <h2 style={{ fontSize: "1.5rem", marginBottom: "1rem" }}>
-    Why this project?
   </h2>
 
   <ul style={{ listStyle: "none", padding: 0, fontSize: "1.05rem" }}>
